@@ -1,6 +1,6 @@
 # MGNumericEntry
 
-[![License](https://img.shields.io/badge/license-MIT-5351FB)](LICENSE.md)
+[![License](https://img.shields.io/badge/license-MIT-5351FB)](LICENSE)
 
 Um componente customizado para **Fyne (Go)** que fornece um **campo de entrada numérica** com validação, limites (min/max), incremento/decremento e **botões de spin com auto-repeat** (pressionar e segurar).
 

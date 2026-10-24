@@ -1,6 +1,6 @@
 # MGNumericEntry
 
-[![License](https://img.shields.io/badge/license-PolyForm%20Perimeter%201.0.1-5351FB)](LICENSE.md)
+[![License](https://img.shields.io/badge/license-MIT-5351FB)](LICENSE.md)
 
 Um componente customizado para **Fyne (Go)** que fornece um **campo de entrada numérica** com validação, limites (min/max), incremento/decremento e **botões de spin com auto-repeat** (pressionar e segurar).
 
@@ -79,14 +79,14 @@ entry.SetValue(42)
 
 ## 🧩 Compatibilidade
 
-* Go 1.26.5+
+* Go 1.27.2+
 * Fyne 2.8.0
 
 ---
 
 ## 👤 Autor
 
-**Murilo Gomes Julio**
+**Murilo Gomes**
 
 🔗 [https://www.profmugomes.com.br](https://www.profmugomes.com.br)
 
@@ -96,26 +96,8 @@ entry.SetValue(42)
 
 ## License
 
-Copyright (c) 2025-2026 Murilo Gomes Julio. All Rights Reserved.
+Copyright (c) 2025-2026 Murilo Gomes <profmugomes.com.br>
 
-This project is licensed under the PolyForm Perimeter License 1.0.1.
+Licensed under the [MIT](https://github.com/profmugomes/mgnumericentry/blob/main/LICENSE) license.
 
-### Summary
-
-This software is available for commercial and noncommercial use, subject to the terms of the PolyForm Perimeter License 1.0.1.
-
-You may:
-
-* ✔ Use the software for commercial and noncommercial purposes.
-* ✔ Inspect and study the source code.
-* ✔ Modify the software.
-* ✔ Create derivative works based on the software.
-* ✔ Redistribute the software and permitted modifications.
-
-You may not:
-
-* ✖ Provide a product that competes with the software.
-
-See the full license terms at LICENSE.md.
-
-This summary is provided for convenience only and does not replace or modify the full license terms.
+All contributions to the MGNumericEntry are subject to this license.
